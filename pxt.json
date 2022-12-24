@@ -1,5 +1,5 @@
 {
-    "name": "TickTackClock-bit",
+    "name": "TickTack-bit",
     "description": "",
     "dependencies": {
         "core": "*",
